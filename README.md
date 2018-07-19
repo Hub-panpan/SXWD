@@ -72,4 +72,5 @@
 
 知乎专栏：https://zhuanlan.zhihu.com/Hub-panpan
 
-本人已授权“维权骑士”网站（http://www.rightknights.com）对我在CSDN发布的文章的版权侵权行为进行追究与维权。
+本人已授权“维权骑士”网站（http://www.rightknights.com）
+对我在github发布的文章的版权侵权行为进行追究与维权。

@@ -65,7 +65,11 @@
 希望大家可以交流学习一下！
 微信公众号：大牛带我飞吧
 个人微信：panpan668706
+
 个人博客: http://blog.csdn.net/m0_37639542
+
 个人github: https://github.com/Hub-panpan
+
 知乎专栏：https://zhuanlan.zhihu.com/Hub-panpan
+
 本人已授权“维权骑士”网站（http://www.rightknights.com）对我在CSDN发布的文章的版权侵权行为进行追究与维权。

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <display-name></display-name>
+  
+
+  <servlet>
+  	<servlet-name>controller</servlet-name>
+  	<servlet-class>com.control.CenterController</servlet-class>
+  </servlet>
+  <servlet>
+    <description>vilateCodeservice</description>
+    <display-name>vilateCodeservice</display-name>
+    <servlet-name>CreateVilateCode</servlet-name>
+    <servlet-class>com.basefunction.CreateVilateCode</servlet-class>
+  </servlet>
+
+
+
+
+
+  <servlet-mapping>
+  	<servlet-name>controller</servlet-name>
+  	<url-pattern>*.do</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CreateVilateCode</servlet-name>
+    <url-pattern>/CreateVilateCode.do</url-pattern>
+  </servlet-mapping>
+  
+
+
+<listener>
+     <listener-class>
+          com.listener.initListener
+     </listener-class>
+</listener>   
+  
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

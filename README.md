@@ -66,6 +66,7 @@ https://blog.csdn.net/m0_37639542/article/details/81123671
 
 ![这里写图片描述](https://img-blog.csdn.net/20180719220251574?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzM3NjM5NTQy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
+此项目还有详细设计，需求分析，以及SQL脚本，需要的可以联系我！
 希望大家可以交流学习一下！
 微信公众号：大牛带我飞吧
 个人微信：panpan668706
